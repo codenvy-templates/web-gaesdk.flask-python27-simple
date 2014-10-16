@@ -1,1 +1,1 @@
-{"type":"blank","attributes":{},"runners":{"default":"system:/python-webapp-default/python27_gae199","configs":{}},"builders":{}}
+{"type":"blank","attributes":{},"runners":{"default":"system:/python/web/python27_gae199","configs":{}},"builders":{}}
